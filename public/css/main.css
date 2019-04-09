@@ -1,0 +1,20 @@
+body {
+  margin: 25%;
+  margin-left: 33%;
+  margin-top: 15%;
+  font-family: monospace;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+h1 {
+  padding-bottom: 40px;
+}
+
+#instrument-families {
+  border: 2px solid orange;
+  font-family: monospace;
+  color: orange;
+  background-color: black;
+}
